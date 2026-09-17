@@ -21,14 +21,11 @@
 <br>
 
 ## 📂 Featured Projects
-- **[Supply Chain Analysis](https://github.com/SManojPrabhakar):** Built a Power BI dashboard tracking 6 KPIs across multiple product categories and suppliers; utilized SQL and Pandas to analyze 15K+ rows and identify inventory bottlenecks[cite: 1].
-- **[Medical Data Analysis](https://github.com/SManojPrabhakar):** Analyzed hospital data across relational tables using MySQL Workbench and built a Power BI data model to visualize patient distribution and admission trends[cite: 1].
-- **[Startup Profit Prediction & Analysis](https://github.com/SManojPrabhakar):** Developed a Linear Regression machine learning model using Scikit-learn achieving 90% accuracy ($R^2$ score of 0.90) to predict startup profit and identify key financial drivers[cite: 1].
-- **[Attendance2Day](https://github.com/SManojPrabhakar):** Deployed a full-stack Android academic management app with Role-Based Access Control (RBAC), utilizing AWS EC2, MySQL, and Firebase[cite: 1].
+- **[Supply Chain Analysis](https://github.com/SManojPrabhakar/Supply-Chain-Analysis.git):** Built a Power BI dashboard tracking 6 KPIs across multiple product categories and suppliers; utilized SQL and Pandas to analyze 15K+ rows and identify inventory bottlenecks[cite: 1].
+- **[Medical Data Analysis](https://github.com/SManojPrabhakar/hospital-medical-data-analysis-sql.git):** Analyzed hospital data across relational tables using MySQL Workbench and built a Power BI data model to visualize patient distribution and admission trends[cite: 1].
+- **[Startup Profit Prediction & Analysis](https://github.com/SManojPrabhakar/Profit_Prediction_Analysis.git):** Developed a Linear Regression machine learning model using Scikit-learn achieving 90% accuracy ($R^2$ score of 0.90) to predict startup profit and identify key financial drivers[cite: 1].
+- **[Attendance2Day](https://github.com/SManojPrabhakar/Attendance2day.git):** Deployed a full-stack Android academic management app with Role-Based Access Control (RBAC), utilizing AWS EC2, MySQL, and Firebase[cite: 1].
 
 <br>
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SManojPrabhakar&show_icons=true&theme=radical" alt="Manoj's GitHub Stats" />
-</p>
+
