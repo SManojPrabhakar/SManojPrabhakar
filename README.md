@@ -1,6 +1,6 @@
 # Hi, I'm Manoj Prabhakar Seelam 👋
 
-### 📊 Aspiring Data Analyst | SQL, Python, Power BI & Full-Stack Project Experience
+### 📊 Aspiring Data Analyst | SQL, Python, Excel, Power BI & Full-Stack Project Experience
 
 <br>
 
