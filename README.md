@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently gaining hands-on experience as a Data Analyst Intern at Rubixe AI Company, building data models, cleaning 10K+ records, and developing Power BI KPI dashboards.
 - 💡 Passionate about turning raw data into actionable business insights through Exploratory Data Analysis (EDA), predictive modeling, and automated reporting.
-- 📱 I also bring full-stack software experience, having deployed the **Attendance2Day** academic management system live on the Google Play Store and hosted on AWS EC2.
+- 📱 I also bring full-stack software experience, having deployed the **Attendance2Day** academic management system mobile application live on the Google Play Store and hosted on AWS EC2.
 - 📫 How to reach me: [manojprabhakarseelam@gmail.com](mailto:manojprabhakarseelam@gmail.com)
 
 <br>
